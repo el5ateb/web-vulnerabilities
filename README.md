@@ -1,2 +1,2 @@
-# This repo contains mindmaps and writeups for various web app vulnerabilities.
+# This repo contains Notes and Writeups for various vulnerabilities.
 
